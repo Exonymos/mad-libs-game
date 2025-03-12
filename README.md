@@ -18,6 +18,7 @@ A friendly, colorful console-based Mad Libs Game that lets you create hilarious 
 - [Mad Libs Game](#mad-libs-game)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
+  - [Preview](#preview)
   - [Features](#features)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -31,6 +32,20 @@ A friendly, colorful console-based Mad Libs Game that lets you create hilarious 
 Mad Libs Game is a fun and interactive console application that allows users to create humorous and dynamic stories by filling in blanks with their own words. The game is built with Python and leverages the power of the [Rich](https://github.com/Textualize/rich) library to offer a vibrant, colorful interface and smooth user experience.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Preview
+
+
+<details>
+<summary>Click to expand</summary>
+<div align="center">
+<img src="https://i.imgur.com/eLATAVT.png" alt="Mad Libs Game Main Preview 1" width="49%">
+<img src="https://i.imgur.com/LOvYZFs.png" alt="Mad Libs Game Create Story Preview 2" width="49%">
+<br>
+<img src="https://i.imgur.com/E1D06An.png" alt="Mad Libs Game Story Preview 3" width="49%">
+<img src="https://i.imgur.com/WOVAevv.png" alt="Mad Libs Game Theme Preview 4" width="49%">
+</div>
+</details>
 
 ## Features
 
