@@ -4,7 +4,7 @@
 
 A friendly, colorful console-based Mad Libs Game that lets you create hilarious stories with dynamic templates. Built using [Rich](https://github.com/Textualize/rich).
 
-[![GitHub license](https://img.shields.io/github/license/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/Exonymos/mad-libs-game/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/commits/main)<br>
 [![GitHub stars](https://img.shields.io/github/stars/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/stargazers)
