@@ -6,7 +6,8 @@ A friendly, colorful console-based Mad Libs Game that lets you create hilarious 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/Exonymos/mad-libs-game/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/commits/main)<br>
+[![GitHub last commit](https://img.shields.io/github/last-commit/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/commits/main)
+[![Github release](https://img.shields.io/github/v/release/Exonymos/mad-libs-game?color=brightgreen)](https://github.com/Exonymos/mad-libs-game/releases/latest)<br>
 [![GitHub stars](https://img.shields.io/github/stars/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Exonymos/mad-libs-game)](https://github.com/Exonymos/mad-libs-game/network)
 
