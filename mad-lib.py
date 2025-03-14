@@ -135,6 +135,11 @@ class MadLibsGame:
                 "The {adjective} {noun} {verb} at the {place} was a sight to behold.",
                 # Example 10: The happy dog run at the park was a sight to behold.
             ),
+            Story(
+                "The {adjective} Adventure at the {place}",
+                "One {adjective} day, a group of {noun}s decided to {verb} at the {place}, leading to an unforgettable adventure.",
+                # Example: One sunny day, a group of friends decided to explore at the beach, leading to an unforgettable adventure.
+            ),
         ]
 
     def welcome_animation(self):
